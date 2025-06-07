@@ -1,3 +1,4 @@
+// Importing assets
 import email from '../assets/email.png';
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
@@ -37,7 +38,8 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import ai from '../assets/AI.jpg';
 
-export default {
+// ✅ Assign to a named variable
+const images = {
   email,
   mobile,
   api,
@@ -74,3 +76,6 @@ export default {
   spotify,
   ai,
 };
+
+// ✅ Export the named variable
+export default images;

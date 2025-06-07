@@ -4,8 +4,8 @@ build/
 dist/
 
 # Sanity & Vite
-frontend/.env
-sanity-backend/.env
+frontend_react/.env
+backend/.env
 
 # macOS & IDEs
 .DS_Store
