@@ -1,0 +1,14 @@
+# React & Node
+node_modules/
+build/
+dist/
+
+# Sanity & Vite
+frontend/.env
+backend/.env
+
+# macOS & IDEs
+.DS_Store
+.vscode/
+
+
